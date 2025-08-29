@@ -1,0 +1,6 @@
+times = ('Botafogo', 'palmeiras', 'flamengo', 'internacional', 'são paulo', 'corinthians', 'bahia')
+print(f"{times}\n esse são os 7 lugares dos times no brasileirão")
+print(f"{times[:5]}\n esses são os cinco primeiros lugares")
+print(f"{times[-4:]}\n esses são os últimos 4 lugares")
+print(f"Ordem alfabetica\n{sorted(times)}")
+print("A chapecoence nem ta ")
